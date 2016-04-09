@@ -1,0 +1,6 @@
+c:\users\aawee\documents\visual studio 2013\Projects\RobotTest\RobotTest\bin\Release\RobotTest.exe.config
+c:\users\aawee\documents\visual studio 2013\Projects\RobotTest\RobotTest\bin\Release\RobotTest.exe
+c:\users\aawee\documents\visual studio 2013\Projects\RobotTest\RobotTest\bin\Release\RobotTest.pdb
+c:\users\aawee\documents\visual studio 2013\Projects\RobotTest\RobotTest\obj\Release\RobotTest.exe
+c:\users\aawee\documents\visual studio 2013\Projects\RobotTest\RobotTest\obj\Release\RobotTest.pdb
+c:\users\aawee\documents\visual studio 2013\Projects\RobotTest\RobotTest\obj\Release\RobotTest.csprojResolveAssemblyReference.cache
